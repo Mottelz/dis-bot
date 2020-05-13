@@ -1,0 +1,24 @@
+{
+  "name": "dis-bot",
+  "version": "1.0.0",
+  "description": "a simple discord bot by me",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mottelz/dis-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "nodejs"
+  ],
+  "author": "mottelz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mottelz/dis-bot/issues"
+  },
+  "homepage": "https://github.com/Mottelz/dis-bot#readme"
+}
